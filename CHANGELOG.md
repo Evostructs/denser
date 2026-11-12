@@ -106,7 +106,7 @@ All notable changes to this project are documented here. The format follows [Kee
   README.
 - Made the pre-commit integration advisory; file length alone no longer blocks
   a commit.
-- Updated repository links from `BillWang0101/denser` to `Evostructs/denser`.
+- Updated repository links to `Evostructs/denser` after the account rename.
 
 ### Added (v0.2 pre-release)
 - **Claude Code skill `denser-compress`** — runs inside Claude Code's authenticated
