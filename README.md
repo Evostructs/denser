@@ -3,6 +3,8 @@
 <p align="center"><strong>Behavior-validated context reduction for LLM agents</strong></p>
 <p align="center">Remove unnecessary visible context. Preserve required behavior. Measure actual full-input savings.</p>
 
+<p align="center"><strong>Developed by Evostructs with assistance from OpenAI Codex.</strong></p>
+
 <p align="center">
   <a href="https://github.com/Evostructs/denser/actions/workflows/ci.yml"><img alt="CI" src="https://github.com/Evostructs/denser/actions/workflows/ci.yml/badge.svg"></a>
   <a href="https://github.com/Evostructs/denser/releases/tag/v0.2.0-alpha.3"><img alt="Release v0.2.0-alpha.3" src="https://img.shields.io/badge/release-v0.2.0--alpha.3-28d7c2"></a>
