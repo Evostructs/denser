@@ -98,7 +98,8 @@ class ClaudeBackend(Backend):
                 response = self._client.messages.create(
                     model=self._model,
                     max_tokens=max_tokens,
-                    temperature=self._temperature,
+                    # New SDKs accept legacy sampling settings via extra_body.
+                    extra_body={"temperature": self._temperature},
                     system=system_blocks,
                     messages=messages,
                 )
